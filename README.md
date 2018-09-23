@@ -15,7 +15,7 @@ Extra features added:-
 * This application included with search bar option which can be used to search for particular movie from the list.
 
 Technology Stack:-
-* This application is built on Xcode 9.4.1
+* This application is built on Xcode 9.4.1, Swift 4.1
 * Supports from iOS 10 and above
 * Supports in iPhone and iPad both in portrait and landscape mode
 * This application is designed in MVVM architecture
